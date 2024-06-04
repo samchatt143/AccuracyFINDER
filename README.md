@@ -1,1 +1,3 @@
 # AccuracyFINDER
+It is a site made for the people who wants to check their accuracy that is there will be few types of timer and the user needs to stop it at the mentioned time...Failing to do so or else exceeding it just by 1sec before or after will lead to losing the challenge..It will be a fun game for the user...
+Kindly access the website from here-->https://checkyouraccuracy.netlify.app/
